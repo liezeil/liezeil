@@ -18,4 +18,4 @@ applied AI teams.
 ### Tech
 Python · TypeScript · Node.js · React/Next.js · FastAPI · AWS · Docker · SQL
 
-📫 liezeil.jimenez@gmail.com · 🔗 [LinkedIn](https://linkedin.com/in/liezeil)
+📫 llj@njit.edu · 🔗 [LinkedIn](https://linkedin.com/in/liezeil)
