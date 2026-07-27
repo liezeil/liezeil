@@ -11,6 +11,10 @@ customer conversations.
 I'm looking for **Summer 2027 SWE internships** on AI platform, ML infrastructure, or
 applied AI teams.
 
+### Projects
+- A personal intelligence system using GraphRAG (Neo4j + pgvector)
+- A schema-only data marketplace with AI-planned SQL previews and x402 micropayments
+
 ### Tech
 Python · TypeScript · Node.js · React/Next.js · FastAPI · AWS · Docker · SQL
 
